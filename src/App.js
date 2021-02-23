@@ -18,9 +18,9 @@ function App() {
               </li> 
               <li> <span>Phone :</span> {user.phone}</li> 
               <li> <span>Web-Site :</span> {user.website}</li> 
-              <li> <span>Name Of Company :</span> {user.company.name}</li> 
-              <li> <span>Catch Phrase :</span> {user.company.catchPhrase}</li> 
-              <li> <span>Bs:</span> {user.company.bs}</li><hr/>
+              <li> <span>Company Name :</span> {user.company.name}</li> 
+              <li> <span>Company Catch Phrase :</span> {user.company.catchPhrase}</li> 
+              <li> <span>Company Bs:</span> {user.company.bs}</li><hr/>
           </div>)
             }
             </ul>
