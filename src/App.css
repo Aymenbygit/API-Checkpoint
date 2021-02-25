@@ -1,6 +1,17 @@
 .App {
   background-color: #282c34;
   color: #61dafb;
+  text-align: center;
+}
+.card_cont{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.user{
+  border: #61dafb 2px solid ;
+  padding: 20px;
+  margin: 10px;
 }
 
 .App-logo {
